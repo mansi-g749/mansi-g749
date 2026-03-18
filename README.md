@@ -144,4 +144,4 @@ I am open to collaborating on analytics projects involving:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff9a9e,30:fad0c4,70:a18cd1,100:fbc2eb" />
-![Snake animation](https://github.com/mansi-g749/mansi-g749/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mansi-g749/mansi-g749/output/github-contribution-grid-snake.svg)
