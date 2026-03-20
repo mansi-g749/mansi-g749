@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/Open%20Source-Active-c026d3?style=flat-square&labelColor=374151" alt="Open Source" />
 </p>
 
----
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
 
 ## Quick Facts
 
@@ -87,6 +89,10 @@ class MansiGupta:
 
 ## Featured Projects
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
+
 | Project | Summary | Stack |
 | --- | --- | --- |
 | [Retail Sales Data](https://github.com/mansi-g749/retail_sales_data-using-mysql) | SQL analysis of retail trends and business insights | MySQL |
@@ -97,6 +103,10 @@ class MansiGupta:
 | [AI Impact Analysis](https://github.com/mansi-g749/ai-impact-analysis) | Exploratory analysis on AI impact themes | Python |
 
 ## Connect With Me
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
 
 <p align="center">
   <a href="mailto:msgupta8153@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -118,6 +128,10 @@ class MansiGupta:
 </p>
 
 ## GitHub Statistics
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansi-g749&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mansi Gupta GitHub Stats" />
@@ -151,6 +165,10 @@ class MansiGupta:
 
 ## Certifications and Learning Highlights
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
+
 | Certification | Focus Area | Source |
 | --- | --- | --- |
 | Microsoft Power BI (Self Learning) | Dashboarding and BI reporting | Self-paced learning |
@@ -161,6 +179,10 @@ class MansiGupta:
 | Java Certification (LetsUpgrade) | Programming foundations and logic building | LetsUpgrade |
 
 ## Collaboration
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+</div>
 
 I am open to collaborating on:
 
