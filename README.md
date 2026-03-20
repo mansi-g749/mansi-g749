@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Active-c026d3?style=flat-square&labelColor=374151" alt="Open Source" />
 </p>
 
-<div align="center">
-  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
-</div>
-
 ## Quick Facts
 
 ```python
@@ -87,10 +83,6 @@ class MansiGupta:
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="31%" alt="Developer Visual" />
 </p>
 
-<div align="center">
-  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
-</div>
-
 ## Featured Projects
 
 | Project | Summary | Stack |
@@ -122,10 +114,6 @@ class MansiGupta:
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
-
-<div align="center">
-  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
-</div>
 
 ## GitHub Statistics
 
@@ -169,10 +157,6 @@ class MansiGupta:
 | Google Gemini Academy 2025 | AI fundamentals and practical usage | Google Gemini Academy |
 | Python Programming Certification | Core programming for analytics automation | Certification program |
 | Java Certification (LetsUpgrade) | Programming foundations and logic building | LetsUpgrade |
-
-<div align="center">
-  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
-</div>
 
 ## Collaboration
 
