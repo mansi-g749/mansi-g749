@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
 </div>
 
 ## Quick Facts
@@ -87,11 +87,11 @@ class MansiGupta:
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="31%" alt="Developer Visual" />
 </p>
 
-## Featured Projects
-
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
 </div>
+
+## Featured Projects
 
 | Project | Summary | Stack |
 | --- | --- | --- |
@@ -103,10 +103,6 @@ class MansiGupta:
 | [AI Impact Analysis](https://github.com/mansi-g749/ai-impact-analysis) | Exploratory analysis on AI impact themes | Python |
 
 ## Connect With Me
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
-</div>
 
 <p align="center">
   <a href="mailto:msgupta8153@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -127,11 +123,11 @@ class MansiGupta:
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-## GitHub Statistics
-
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
 </div>
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansi-g749&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mansi Gupta GitHub Stats" />
@@ -165,10 +161,6 @@ class MansiGupta:
 
 ## Certifications and Learning Highlights
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
-</div>
-
 | Certification | Focus Area | Source |
 | --- | --- | --- |
 | Microsoft Power BI (Self Learning) | Dashboarding and BI reporting | Self-paced learning |
@@ -178,11 +170,11 @@ class MansiGupta:
 | Python Programming Certification | Core programming for analytics automation | Certification program |
 | Java Certification (LetsUpgrade) | Programming foundations and logic building | LetsUpgrade |
 
-## Collaboration
-
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Section Divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
 </div>
+
+## Collaboration
 
 I am open to collaborating on:
 
