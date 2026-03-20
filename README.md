@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
+  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
 </div>
 
 ## Quick Facts
@@ -88,7 +88,7 @@ class MansiGupta:
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
+  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
 </div>
 
 ## Featured Projects
@@ -124,7 +124,7 @@ class MansiGupta:
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
+  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
 </div>
 
 ## GitHub Statistics
@@ -171,7 +171,7 @@ class MansiGupta:
 | Java Certification (LetsUpgrade) | Programming foundations and logic building | LetsUpgrade |
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff4d6d,100:60a5fa&section=header" alt="Section Divider" />
+  <img width="100%" src="./assets/animated-divider.svg" alt="Animated Section Divider" />
 </div>
 
 ## Collaboration
